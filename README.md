@@ -1,1 +1,1 @@
-# Bot-Invitation-Maker
+# Bot Invitation Maker

@@ -1,1 +1,1 @@
-This is Bot Invitation Maker's compiled version. (Compiled with PyInstaller)
+Bu Bot Invitation Maker'ın derlenmiş halidir. (PyInstaller ile derlendi.)
